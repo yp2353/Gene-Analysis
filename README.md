@@ -2,7 +2,7 @@
 Teammates: https://github.com/rishienandhan3, https://github.com/Andrewhg414
 
 ## PROBLEM STATEMENT
-We aim to create a predictive model for cancerous transcriptome identification and
+We aim to create a predictive model for cancer transcriptome identification and
 identify recurring patterns in the cancer genome through analysis and comparison in cancerous
 cells vs. healthy cells. This could lower the number of genes needed to test to give an
 accurate picture of a cancerous cell, decreasing cost and increasing testing efficiency.
